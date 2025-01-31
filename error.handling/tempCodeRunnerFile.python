@@ -1,0 +1,9 @@
+try:
+    a = int(input("enter number"))
+    b = int(input("enter denominator"))
+    result = a / b
+
+except ZeroDivisionError as e:
+    print(e)
+else:
+    print(result)
