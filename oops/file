@@ -1,0 +1,175 @@
+# Class: 
+#     A class is like a blueprint for creating objects. 
+#     It can have properties (variables) and methods (functions).
+
+# Object: 
+#     An object is an instance of a class. 
+#     It has the properties and methods defined in the class.
+
+# Instance Variable:
+#     A variable that is defined inside a method and belongs 
+#     to a specific instance of a class.
+
+# Class / Static Variable:
+#     A variable that is shared among all instances of a class. 
+#     It is defined inside the class but outside any methods.
+
+# Instance Methods:
+#     These methods require an instance of the class to be called. 
+#     They can access and modify instance variables.
+
+#     Why We Need Instance Methods:
+#         Instance methods are essential for accessing and modifying an object's properties. 
+#         Each object can have its own unique values, and instance methods let us work with these values.
+
+# Class  Methods:
+#     These methods are bound to the class and not the instance. 
+#     They can access and modify class variables. 
+#     They use the @classmethod decorator and the first parameter is cls, 
+#     which refers to the class itself.
+
+#     Why We Need Class Methods:
+#         Class methods are used to access or modify class-level data. 
+#         They apply to the class as a whole, not individual instances.
+
+# Static Methods:
+#     These methods do not access or modify class or instance variables. 
+#     They are bound to the class and are called using the class name. 
+#     They use the @staticmethod decorator.
+
+#     Why We Need Static Methods:
+#         Static methods are utility functions that don't modify or access 
+#         class-level or instance-level data. 
+#         They are used to perform tasks that are relevant to the class but 
+#         don't need to access or modify class or instance variables.Class: 
+#     A class is like a blueprint for creating objects. 
+#     It can have properties (variables) and methods (functions).
+
+# Object: 
+#     An object is an instance of a class. 
+#     It has the properties and methods defined in the class.
+
+# Instance Variable:
+#     A variable that is defined inside a method and belongs 
+#     to a specific instance of a class.
+
+# Class / Static Variable:
+#     A variable that is shared among all instances of a class. 
+#     It is defined inside the class but outside any methods.
+
+# Instance Methods:
+#     These methods require an instance of the class to be called. 
+#     They can access and modify instance variables.
+
+#     Why We Need Instance Methods:
+#         Instance methods are essential for accessing and modifying an object's properties. 
+#         Each object can have its own unique values, and instance methods let us work with these values.
+
+# Class  Methods:
+#     These methods are bound to the class and not the instance. 
+#     They can access and modify class variables. 
+#     They use the @classmethod decorator and the first parameter is cls, 
+#     which refers to the class itself.
+
+#     Why We Need Class Methods:
+#         Class methods are used to access or modify class-level data. 
+#         They apply to the class as a whole, not individual instances.
+
+# Static Methods:
+#     These methods do not access or modify class or instance variables. 
+#     They are bound to the class and are called using the class name. 
+#     They use the @staticmethod decorator.
+
+#     Why We Need Static Methods:
+#         Static methods are utility functions that don't modify or access 
+#         class-level or instance-level data. 
+#         They are used to perform tasks that are relevant to the class but 
+#         don't need to access or modify class or instance variables.Class: 
+#     A class is like a blueprint for creating objects. 
+#     It can have properties (variables) and methods (functions).
+
+# Object: 
+#     An object is an instance of a class. 
+#     It has the properties and methods defined in the class.
+
+# Instance Variable:
+#     A variable that is defined inside a method and belongs 
+#     to a specific instance of a class.
+
+# Class / Static Variable:
+#     A variable that is shared among all instances of a class. 
+#     It is defined inside the class but outside any methods.
+
+# Instance Methods:
+#     These methods require an instance of the class to be called. 
+#     They can access and modify instance variables.
+
+#     Why We Need Instance Methods:
+#         Instance methods are essential for accessing and modifying an object's properties. 
+#         Each object can have its own unique values, and instance methods let us work with these values.
+
+# Class  Methods:
+#     These methods are bound to the class and not the instance. 
+#     They can access and modify class variables. 
+#     They use the @classmethod decorator and the first parameter is cls, 
+#     which refers to the class itself.
+
+#     Why We Need Class Methods:
+#         Class methods are used to access or modify class-level data. 
+#         They apply to the class as a whole, not individual instances.
+
+# Static Methods:
+#     These methods do not access or modify class or instance variables. 
+#     They are bound to the class and are called using the class name. 
+#     They use the @staticmethod decorator.
+
+#     Why We Need Static Methods:
+#         Static methods are utility functions that don't modify or access 
+#         class-level or instance-level data. 
+#         They are used to perform tasks that are relevant to the class but 
+#         don't need to access or modify class or instance variables.Class: 
+#     A class is like a blueprint for creating objects. 
+#     It can have properties (variables) and methods (functions).
+
+# Object: 
+#     An object is an instance of a class. 
+#     It has the properties and methods defined in the class.
+
+# Instance Variable:
+#     A variable that is defined inside a method and belongs 
+#     to a specific instance of a class.
+
+# Class / Static Variable:
+#     A variable that is shared among all instances of a class. 
+#     It is defined inside the class but outside any methods.
+
+# Instance Methods:
+#     These methods require an instance of the class to be called. 
+#     They can access and modify instance variables.
+
+#     Why We Need Instance Methods:
+#         Instance methods are essential for accessing and modifying an object's properties. 
+#         Each object can have its own unique values, and instance methods let us work with these values.
+
+# Class  Methods:
+#     These methods are bound to the class and not the instance. 
+#     They can access and modify class variables. 
+#     They use the @classmethod decorator and the first parameter is cls, 
+#     which refers to the class itself.
+
+#     Why We Need Class Methods:
+#         Class methods are used to access or modify class-level data. 
+#         They apply to the class as a whole, not individual instances.
+
+# Static Methods:
+#     These methods do not access or modify class or instance variables. 
+#     They are bound to the class and are called using the class name. 
+#     They use the @staticmethod decorator.
+
+#     Why We Need Static Methods:
+#         Static methods are utility functions that don't modify or access 
+#         class-level or instance-level data. 
+#         They are used to perform tasks that are relevant to the class but 
+#         don't need to access or modify class or instance variables.
+        
+    
